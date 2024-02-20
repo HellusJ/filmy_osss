@@ -21,5 +21,5 @@
        
   <li><h2>Část kódu</h2>
     <p>Následující kód kontroluje zda byl vybrán film. Pokud Ano tento kód se spustí</p></li>
-        <img src = "![image](https://github.com/HellusJ/filmy_osss/assets/147615460/dadac9f3-dc96-4ca6-a879-819797549ca1)">
+        <img src = "">
 </ul>
