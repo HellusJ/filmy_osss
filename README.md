@@ -23,6 +23,6 @@
     <p>Následující kód kontroluje zda byl vybrán film. Pokud Ano tento kód se spustí. Nejprve se na 2. řádku program zeptá<br>
        jaký žánr chcete a poté na 3. řádku kontrolujeme zda se zadaný input nachází ve slovníku, který je jako hodnota<br>
        ke klíči "Filmy". Pokud ano tak se spustí poslední část kódu a to již zmíněný for cyklus, který prochází klíče a hodnoty<br>
-       v itemech zvoleného žánru a ty poté vypíše.</p></li>
+       v itemech zvoleného žánru a ty poté vypíše.</p> </li>
       <img src = "https://github.com/HellusJ/filmy_osss/blob/main/Filmkod.img.png?raw=true" height = "140" width = "720">
 </ul>
